@@ -1,0 +1,39 @@
+body{
+    background-color: #F7EFE5;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E2BFD9;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color:#black;
+    font: size30px
+}
+p{
+    color: #674188;
+}
+h3{
+    color: #674188;
+    font-size: 20px;
+}
+ul{
+    background-color: #C8A1E0;
+    border-radius: 40px;;;
+}
+ol{
+    background-color: #C8A1E0;
+    border-radius: 40px;
+}
+table{
+    background-color: #C8A1E0;
+    border-radius: 40px;
+}
+p{
+    color: black;
+
+}
+
